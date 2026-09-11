@@ -1,2 +1,2 @@
 # witherhead
-a simple ransomware with a custom made hashing algorithm
+A simple unconventional wiper who hashes instead of deleting.
